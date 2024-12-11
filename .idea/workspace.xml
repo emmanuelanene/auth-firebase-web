@@ -7,6 +7,7 @@
     <list default="true" id="e7f2a8f9-15e9-4466-839c-e194c68c5042" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733717151742</updated>
       <workItem from="1733717152883" duration="19015000" />
-      <workItem from="1733956647553" duration="1688000" />
+      <workItem from="1733956647553" duration="2223000" />
     </task>
     <servers />
   </component>
