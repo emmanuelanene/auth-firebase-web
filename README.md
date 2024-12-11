@@ -22,16 +22,19 @@ This project demonstrates the implementation of Firebase Authentication in a Rea
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
+<br>
 
 2. Install Dependencies
 ```
 npm install
 ```
+<br>
 
 3. Create a Firebase project:
 - Go to the Firebase Console and create a new project.
 - Enable Email/Password Authentication in the "Authentication" section.
 
+<br>
 
 4. Add your Firebase configuration:
 - Copy the Firebase configuration object from your project settings in the Firebase Console.
@@ -52,6 +55,8 @@ const app = initializeApp(firebaseConfig);
 
 export default app;
 ```
+
+<br>
 
 5. Start the development server:
 ```
